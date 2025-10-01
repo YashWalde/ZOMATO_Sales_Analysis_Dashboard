@@ -10,7 +10,7 @@ The main objective of this project is to develop an interactive dashboard that h
 - How do sales trends change year by year?
 - What is the share of different product categories in total sales and their respective ratings?
 
-<a href = "https://github.com/YashWalde/Pizza_Sales_Analysis_Exl_Dashboard/blob/main/Screenshot_Db.png"> Dashboard Interaction </a>
+<a href = "https://github.com/YashWalde/ZOMATO_Sales_Analysis_Dashboard/blob/main/zdb1.png"> Dashboard Interaction </a>
 ## Process
 - Collected and integrated Zomato transactional, user, and ratings datasets.
 - Cleaned and preprocessed the data for accurate representation and consistency.
