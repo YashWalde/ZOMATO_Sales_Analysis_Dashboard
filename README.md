@@ -1,6 +1,8 @@
 # ZOMATO_Sales_Analysis_Dashboard
-## Project Objectives
-The main objective of this project is to develop an interactive dashboard that helps visualize and analyze Zomato’s sales, user activity, and city-level performance. It aims to turn raw data into actionable insights for better business decisions, identifying growth trends, user demographics, and high-performing locations.
+## Executive Summary
+- Developed an interactive Power BI dashboard to analyze Zomato’s sales, user activity, and city-level performance.
+- Identified key trends in sales growth, user demographics, and product category performance for data-driven decision-making.
+- Provided actionable insights to improve regional strategies, customer retention, and marketing focus.
 
 ## Question (KPIs)
 - What is the total sales amount and order quantity over the analysis period?
