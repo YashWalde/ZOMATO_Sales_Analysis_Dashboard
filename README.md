@@ -4,6 +4,9 @@
 - Identified key trends in sales growth, user demographics, and product category performance for data-driven decision-making.
 - Provided actionable insights to improve regional strategies, customer retention, and marketing focus.
 
+## Business Problem
+Zomato lacked clear insights into its sales performance, user behavior, and city-level trends. The challenge was to analyze and visualize data to identify top-performing cities, user demographics, and product categories, enabling data-driven decisions to boost growth and retention.
+
 ## Question (KPIs)
 - What is the total sales amount and order quantity over the analysis period?
 - How many active users, new users, and lost users are there, segmented by gender?
